@@ -1,0 +1,19 @@
+body{
+  background-image:url("img/fond.gif");
+}
+p{
+    background-color: lightgrey;
+    text-align: center;
+    width: 60%;   
+}
+.picture{
+    width: 20%;
+}
+.buttons{
+    margin-top: 20%;
+}
+.button{
+    border-style: groove;
+    border-width: 5px 3px 5px 3px;
+    border-color: #A1D16A;
+}
