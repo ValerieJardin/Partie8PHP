@@ -2,12 +2,19 @@ body{
   background-image:url("img/fond.gif");
 }
 p{
-    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    font-size: 30px;
     text-align: center;
-    width: 60%;   
+    width: 100%;   
+}
+.img{
+   display: flex;
+    justify-content: center; 
 }
 .picture{
-    width: 20%;
+    width: 10%;
 }
 .buttons{
     margin-top: 20%;
